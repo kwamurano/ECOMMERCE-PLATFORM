@@ -6,6 +6,8 @@ function Header() {
     <header>
       <nav>
         <Link to="/">Home</Link>
+        <Link to="/products">Product List</Link>
+        <Link to="/add-product">Add Product</Link>
         <Link to="/cart">Cart</Link>
         <Link to="/checkout">Checkout</Link>
       </nav>
